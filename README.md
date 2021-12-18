@@ -1,4 +1,3 @@
-# Clon de Pinterest 
 
 # Proyecto realizado para el curso de Videojuegos 2 
 ![Alt text](/MenuGame.png?raw=true "Title")
